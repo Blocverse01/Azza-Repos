@@ -108,3 +108,28 @@ Azza keeps some repositories private not to reduce transparency, but to protect 
 - unreleased or beta product functionality
 
 Where access is needed for legitimate work, collaboration, diligence, or review, requests can be made via **tc@blocverse.com**.
+
+---
+
+## About Azza
+**Azza** is building stablecoin-native financial infrastructure around a chat-first user experience. At its core, Azza turns familiar messaging interfaces, especially WhatsApp, into an access layer for digital dollar banking, crypto-fiat conversion, treasury movement, and broader payment workflows.
+
+Azza's product direction is rooted in making stablecoin usage feel simple, accessible, and practical for real users. Instead of forcing people to navigate complex crypto interfaces, Azza brings onchain and offchain financial actions into a lightweight conversational flow.
+
+### What Azza is solving
+- **Complex blockchain UX:** Traditional crypto products are often too technical for everyday users.
+- **Trust and security barriers:** Users want intuitive products without compromising the safety of their funds.
+- **Access gaps:** Many users do not have easy access to conventional exchanges or the technical knowledge to use them comfortably.
+
+### Azza's approach
+- **Chat-first financial access:** Users can interact with stablecoin infrastructure through familiar messaging flows.
+- **Simplified ramps:** Buying, selling, moving, and cashing out stablecoins becomes much easier than navigating fragmented crypto tools.
+- **Operationally grounded infrastructure:** Azza combines product UX with internal tooling, rate monitoring, treasury automation, metrics, and provider orchestration.
+- **Security-conscious architecture:** Parts of the stack rely on sensitive infrastructure and implementation details, which is one reason several repos remain private.
+
+### Product visuals
+![Azza WhatsApp Bot](https://github.com/user-attachments/assets/ea83b999-f938-43c7-8460-db6ee1d7f0d8)
+
+### Links
+- **Azza Insights / Documentation:** <https://medium.com/azza-insights>
+- **Demo Video:** <https://www.loom.com/share/d74a937909c44bf69d0545ad939a1d9f?sid=c89f4f8a-7c00-4485-b7f2-c6426df875ff>
