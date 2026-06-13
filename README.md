@@ -132,7 +132,7 @@ Azza's product direction is rooted in making stablecoin usage simple, accessible
 - **Security-conscious architecture:** Parts of the stack rely on sensitive infrastructure and implementation details, which is one reason several repos remain private.
 
 ### Product visuals
-![Azza WhatsApp Bot](https://github.com/user-attachments/assets/ea83b999-f938-43c7-8460-db6ee1d7f0d8)
+![Azza WhatsApp Bot](https://res.cloudinary.com/dtfyyzwoz/image/upload/v1781361843/Azzareadmeimg_suhpr4.png)
 
 ### Links
 - **Azza Insights / Documentation:** <https://medium.com/azza-insights>
