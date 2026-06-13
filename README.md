@@ -6,6 +6,8 @@ Azza's engineering stack spans customer-facing payments infrastructure, treasury
 
 If you need access to a private repository for legitimate collaboration, diligence, partnership, security review, or engineering work, email **tc@blocverse.com** with your request and context.
 
+Additional Azza repositories may be added to this directory over time as they are opened, published, or made suitable for broader access.
+
 ---
 
 ## Codebase Index
